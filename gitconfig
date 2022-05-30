@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = JUSEGIDU@HOTMAIL.COM
+	name = Juan Giraldo
